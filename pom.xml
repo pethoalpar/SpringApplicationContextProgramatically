@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.pethoalpar</groupId>
-    <artifactId>spring.application.context.programaticaly</artifactId>
+    <artifactId>spring.application.context.programatically</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
