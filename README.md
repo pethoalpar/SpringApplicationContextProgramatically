@@ -15,6 +15,25 @@
 </dependency>
 ```
 
+<h3>Person.java</h3>
+
+```java
+public class Person {
+
+    private int age;
+    private String name;
+
+    public Person(int age, String name) {
+        this.age = age;
+        this.name = name;
+    }
+
+    public void printPerson(){
+        System.out.println("Name:"+this.name+" Age:"+this.age);
+    }
+}
+```
+
 <h3>Main.java</h3>
 
 ```java
